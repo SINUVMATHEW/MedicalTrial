@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba8efe8-79e3-4a8c-a80f-1a7654b41dc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MedicalTrial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/raw/Admin.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/raw/Labs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MedicationA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MedicationB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Medication.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patient.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mp7CFOSH0o3fYJJcgM5LDiP7Fy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab.executor": "Run",
     "Python.Medication.executor": "Run",
     "Python.Patient.executor": "Run",
     "Python.main.executor": "Run",
@@ -52,8 +49,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sinu.mathew\PycharmProjects\MedicalTrial\src\data\raw" />
       <recent name="C:\Users\sinu.mathew\PycharmProjects\MedicalTrial\src" />
+      <recent name="C:\Users\sinu.mathew\PycharmProjects\MedicalTrial\src\data\raw" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -73,5 +70,16 @@
       <updated>1727761535373</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
